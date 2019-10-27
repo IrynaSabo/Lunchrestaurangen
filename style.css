@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(restaurang-sand-skansen.jpg);
+    background-size: cover;
+    
+    background-repeat: no-repeat;
+    height: 600px;
+}
+div{
+    text-align: center;
+    margin-top: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    color: rgb(12, 12, 12);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.0em;
+    font-style: italic;
+
+}
